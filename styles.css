@@ -600,7 +600,7 @@ body {
 
 .testimonial-section-textbox {
   position: relative;
-  z-index: 2;
+  /* z-index: 2; */
   width: 90%;
   margin: auto;
 }
