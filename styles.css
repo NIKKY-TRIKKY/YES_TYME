@@ -68,20 +68,28 @@ body {
   top: 50%;
   left: 53%;
   transform: translate(-50%, -50%);
+    z-index: 11000;
+
 }
 
 #navmenu li {
   list-style: none;
+    z-index: 11000;
+
 }
 
 #header a {
   cursor: pointer;
   text-decoration: none;
   color: #fff;
+    z-index: 11000;
+
 }
 
 #header a:hover {
   color: #ffc451;
+    z-index: 11000;
+
 }
 
 #header .getstarted-btn {
