@@ -25,7 +25,6 @@ body {
   background-color: rgba(0, 0, 0, 0.8);
   width: 100vw;
   height: 10vh;
-  z-index: 1;
 }
 
 #header .container {
